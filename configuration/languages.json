@@ -1,0 +1,67 @@
+{
+    "cz":
+    {
+        "login_error": "Chyba přihlášení",
+        "register_error": "Chyba registrace",
+        "no_user_found": "Uživatel nenalezen",
+        "login_wrong_password": "Chybné heslo",
+        "password_not_match": "Hesla se neshodují",
+        "invalid_email": "Neplatný email",
+        "invalid_phone": "Neplatné telefonní číslo",
+        "username_must_be_longer": "Uživatelské jméno musí mít délku alespoň 3 znaky",
+        "username_must_be_shorter": "Uživatelské jméno nesmí být delší než 20 znaků",
+        "password_must_be_longer": "Heslo musí být delší než 6 znaků",
+        "login_invalid_email_or_phone": "Neplatný email nebo tel. číslo"
+    },
+    "sk":
+    {
+        "login_error": "Chyba prihlasenia",
+        "register_error": "Chyba registracie",
+        "no_user_found": "Uzivatel nenajdeny",
+        "login_wrong_password": "Zle heslo",
+        "password_not_match": "Hesla sa nezhoduju",
+        "invalid_email": "Neplatny email",
+        "invalid_phone": "Neplatne telefonne cislo",
+        "username_must_be_longer": "Uzivatelske meno musi mat dlzku aspon 3 znaky",
+        "username_must_be_shorter": "Uzivatelske meno nesmie byt dlhsie ako 20 znakov",
+        "password_must_be_longer": "Heslo musi byt dlhsie ako 6 znakov",
+        "password_must_be_shorter": "Heslo musi byt kratsie ako 20 znakov",
+        "login_invalid_email": "Neplatny email nebo telefon"
+    },
+    "en":
+    {
+        "login_error": "Login error",
+        "register_error": "Register error",
+        "no_user_found": "User not found",
+        "login_wrong_password": "Wrong password",
+        "password_not_match": "Passwords do not match",
+        "invalid_email": "Invalid email",
+        "invalid_phone": "Invalid phone number",
+        "username_must_be_longer": "Username must be longer than 3 characters",
+        "username_must_be_shorter": "Username must be shorter than 20 characters",
+        "password_must_be_longer": "Password must be longer than 6 characters",
+        "password_must_be_shorter": "Password must be shorter than 20 characters",
+        "login_invalid_email": "Invalid email or phone"
+    },
+    "de":
+    {
+        "login_error": "Login Fehler",
+        "register_error": "Registrierungs Fehler",
+        "no_user_found": "Benutzer nicht gefunden",
+        "login_wrong_password": "Falsches Passwort",
+        "password_not_match": "Passwörter stimmen nicht überein",
+        "invalid_email": "Ungültige E-Mail",
+        "invalid_phone": "Ungültige Telefonnummer",
+        "username_must_be_longer": "Benutzername muss länger als 3 Zeichen sein",
+        "username_must_be_shorter": "Benutzername muss kürzer als 20 Zeichen sein",
+        "password_must_be_longer": "Passwort muss länger als 6 Zeichen sein",
+        "password_must_be_shorter": "Passwort muss kürzer als 20 Zeichen sein",
+        "login_invalid_email": "Ungültige E-Mail oder Telefon"
+    },
+
+    "inputs":
+    {
+        "username": ["no_user_found", "login_invalid_email_or_phone"],
+        "password": ["login_wrong_password"]
+    }
+}
